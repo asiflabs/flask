@@ -1,2 +1,1 @@
-# flask
-web app
+# flask-inventory-frontend
