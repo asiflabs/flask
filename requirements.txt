@@ -1,1 +1,4 @@
-flask\ngunicorn
+flask
+gunicorn
+flask_sqlalchemy
+werkzeug
